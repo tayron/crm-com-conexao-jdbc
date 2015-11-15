@@ -1,0 +1,34 @@
+#menuhor{
+	border :none;
+	margin: 0;
+	font: 12px Arial, sans-serif;
+}
+
+#menuhor li{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+#menuhor li a{
+	height: 1px;
+	padding: 3px 1px;
+	margin: 0;
+	border: 1px solid #f00;
+	background: #B22222;
+	text-decoration: none;
+}
+
+#menuhor li a:link{
+	color: #fff;
+}
+
+#menuhor li a:VISITED{
+	color: #fff;
+}
+
+#menuhor li a:HOVER{
+	color: #000;
+	background: #B22222;
+	border-color: #000;
+}

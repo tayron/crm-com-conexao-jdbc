@@ -1,0 +1,30 @@
+#gridcabecalho{
+	border-collapse: collapse;
+	border: 1px solid blue;
+	background-color: white;
+}
+
+
+#grid{
+	border-collapse: collapse;
+	border: 1px solid blue;
+	background-color: #cccccc;
+}
+
+#gridtr{
+	border: 1px solid #003366;
+	color: blue;
+}
+
+#gridtr td{
+	border: 1px solid #003366;
+	color: blue;
+}
+
+div{
+	color: blue;
+	padding: 5px;
+	width: 950px;
+	height: 100px;
+	overflow: auto;
+}
