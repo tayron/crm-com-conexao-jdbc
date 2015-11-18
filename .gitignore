@@ -1,0 +1,5 @@
+###############################################
+# Excluindo do commit arquivos gerados eclipe #
+###############################################
+.metadata
+RemoteSystemsTempFiles
